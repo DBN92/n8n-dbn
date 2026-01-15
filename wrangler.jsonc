@@ -1,0 +1,5 @@
+{
+  "name": "n8n-dbn-worker",
+  "compatibility_date": "2026-01-15",
+  "main": "src/index.ts"
+}
