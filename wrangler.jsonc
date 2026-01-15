@@ -1,5 +1,5 @@
 {
-  "name": "n8n-dbn-worker",
+  "name": "n8n-dbn",
   "compatibility_date": "2026-01-15",
   "main": "src/index.ts"
 }
